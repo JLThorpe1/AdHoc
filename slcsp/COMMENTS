@@ -1,0 +1,10 @@
+Source code: index.php
+
+Modified file: slcspMODIFIED.csv
+
+How to run:
+* On Windows, download and install WampServer from http://www.wampserver.com/en/ .
+* Run WampServer.
+* Go to directory where WampServer was installed and place .zip file in "www" subdirectory.
+* Extract .zip file.
+* Go to the following URL: http://localhost/exercise/index.php

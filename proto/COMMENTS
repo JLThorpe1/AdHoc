@@ -1,0 +1,9 @@
+Source code: index.php
+
+How to run:
+* On Windows, download and install WampServer from http://www.wampserver.com/en/ .
+* Run WampServer.
+* Click on WampServer icon in taskbar and make sure PHP version is set to 7.1.9.
+* Go to directory where WampServer was installed and place .zip file in "www" subdirectory.
+* Extract .zip file.
+* Go to the following URL: http://localhost/proto/index.php
